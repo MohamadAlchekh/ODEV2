@@ -1,0 +1,16 @@
+C:\C# OOP\odev2\odev2\bin\Debug\net6.0-windows\odev2.exe
+C:\C# OOP\odev2\odev2\bin\Debug\net6.0-windows\odev2.deps.json
+C:\C# OOP\odev2\odev2\bin\Debug\net6.0-windows\odev2.runtimeconfig.json
+C:\C# OOP\odev2\odev2\bin\Debug\net6.0-windows\odev2.dll
+C:\C# OOP\odev2\odev2\bin\Debug\net6.0-windows\odev2.pdb
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.Form1.resources
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.csproj.GenerateResource.cache
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.AssemblyInfoInputs.cache
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.AssemblyInfo.cs
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.csproj.CoreCompileInputs.cache
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.dll
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\refint\odev2.dll
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.pdb
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\odev2.genruntimeconfig.cache
+C:\C# OOP\odev2\odev2\obj\Debug\net6.0-windows\ref\odev2.dll
